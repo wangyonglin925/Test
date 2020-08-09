@@ -1,0 +1,5 @@
+第一次的测试  
+public static void main(String[] args){
+	Ststem.out.printof("第一次的输出");
+
+}
