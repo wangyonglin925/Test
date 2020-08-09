@@ -2,4 +2,7 @@
 public static void main(String[] args){
 	Ststem.out.printof("第一次的输出");
 
+
+	14725874639
+
 }
